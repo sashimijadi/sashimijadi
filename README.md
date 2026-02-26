@@ -6,13 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=111111)](https://linkedin.com/in/sashimijadi)&ensp;
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=111111)](https://github.com/sashimijadi)&ensp;
-[![Email](https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=111111)](mailto:your@email.com)
-
 </div>
-
----
 
 ## About Me
 
@@ -23,7 +17,7 @@ Currently diving into full-stack development, mobile apps, and data-driven inter
 - 🎓 &nbsp;**BS Information Technology** · CTU - Main
 - 📍 &nbsp;Cebu, Philippines
 
----
+
 
 ## Technologies
 
@@ -50,22 +44,12 @@ Currently diving into full-stack development, mobile apps, and data-driven inter
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=ffffff)
 
----
+
 
 ## Statistics
 
-<div align="center">
+<div align="left">
 
-<table width="100%" border="0" cellspacing="8" cellpadding="0">
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sashimijadi&show_icons=true&hide_border=false&border_color=ffffff&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&bg_color=111111&count_private=true&rank_icon=github"/>
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashimijadi&layout=compact&hide_border=false&border_color=ffffff&title_color=ffffff&text_color=cccccc&bg_color=111111&langs_count=6"/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
