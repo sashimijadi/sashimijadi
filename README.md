@@ -56,19 +56,19 @@ Currently diving into full-stack development, mobile apps, and data-driven inter
 
 <div align="center">
 
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sashimijadi&show_icons=true&hide_border=false&border_color=ffffff&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&bg_color=111111&count_private=true&rank_icon=github"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashimijadi&layout=compact&hide_border=false&border_color=ffffff&title_color=ffffff&text_color=cccccc&bg_color=111111&langs_count=6"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=sashimijadi&hide_border=false&border=ffffff&background=111111&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideNums=cccccc&sideLabels=cccccc&dates=888888&stroke=333333"/>
 
 </div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashimijadi&bg_color=111111&color=ffffff&line=555555&point=ffffff&area=true&area_color=333333&hide_border=false&border_color=ffffff" width="100%"/>
-</div>
-
----
-
-## Projects
